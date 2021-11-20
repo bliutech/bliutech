@@ -3,7 +3,7 @@
 My name is Benson Liu! I am a first year computer science major at UCLA!
 
 LinkedIn: [https://www.linkedin.com/in/bliutech/](https://www.linkedin.com/in/bliutech/) \
-Website: [https://www.bliu.tech/](https://www.bliu.tech/) \
+Website: [https://www.bliu.tech/](https://www.bliu.tech/) 
 
 📫 How to reach me: bensonhliu@gmail.com\
 😄 Pronouns: he/him
