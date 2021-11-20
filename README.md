@@ -2,11 +2,11 @@
 
 My name is Benson Liu! I am a first year computer science major at UCLA!
 
-LinkedIn: [https://www.linkedin.com/in/bliutech/](https://www.linkedin.com/in/bliutech/)<space><space>
-Website: [https://www.bliu.tech/](https://www.bliu.tech/)<space><space>
+LinkedIn: [https://www.linkedin.com/in/bliutech/](https://www.linkedin.com/in/bliutech/) \
+Website: [https://www.bliu.tech/](https://www.bliu.tech/) \
 
 📫 How to reach me: bensonhliu@gmail.com\
-😄 Pronouns: he/him\
+😄 Pronouns: he/him
 
 <!--
 **bliutech/bliutech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
