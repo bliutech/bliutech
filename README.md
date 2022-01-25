@@ -8,7 +8,9 @@ Website: [https://www.bliu.tech/](https://www.bliu.tech/)
 📫 How to reach me: bensonhliu@gmail.com\
 😄 Pronouns: he/him
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bliutech&layout=compact&theme=vue" /> <img align="left" src="https://github-readme-stats.vercel.app/api?username=bliutech&show_icons=true&count_private=true&theme=vue" />
+
+![](https://github-readme-stats.vercel.app/api?username=bliutech&show_icons=true&hide_rank=truek&count_private=true&theme=vue)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bliutech&layout=compact&theme=vue)
 
 
 <!--
