@@ -9,8 +9,6 @@ Website: [https://www.bliu.tech/](https://www.bliu.tech/)
 😄 Pronouns: he/him
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=bliutech&show_icons=true&count_private=true&theme=vue" />
-
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bliutech&layout=compact&theme=vue" />
 
 
