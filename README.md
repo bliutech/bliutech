@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Benson Liu! I am a rising second year computer science major at the Henry Samueli School of Engineering & Applied Science at UCLA! I'm interested in both software development and data analytics with a focus in artificial intelligence and cybersecurity. Interested in developing software and insights to tackle educational inequities.
+My name is Benson Liu! I am a rising second year computer science major at the Henry Samueli School of Engineering & Applied Science at UCLA! I'm interested in software development, cybersecurity, and educational technology. I'm currently working on helping cybersecurity education grow at UCLA!
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=20px /> LinkedIn: [https://www.linkedin.com/in/bliutech/](https://www.linkedin.com/in/bliutech/) \
 💻 Website: [https://www.bliu.tech/](https://www.bliu.tech/) 
