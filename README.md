@@ -9,7 +9,7 @@ My name is Benson Liu! I am a rising second year computer science major at the H
 😄 Pronouns: he/him
 
 
-![](https://github-readme-stats.vercel.app/api?username=bliutech&show_icons=true&hide_rank=truek&count_private=true&theme=vue)
+![](https://github-readme-stats.vercel.app/api?username=bliutech&show_icons=true&count_private=true&theme=vue)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bliutech&layout=compact&theme=vue)
 
 
