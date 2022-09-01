@@ -8,10 +8,9 @@ My name is Benson Liu! I am a rising second year computer science major at the H
 📫 How to reach me: bensonhliu@gmail.com\
 😄 Pronouns: he/him
 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bliutech&layout=compact&theme=vue)
 
-![](https://github-readme-stats.vercel.app/api?username=bliutech&show_icons=true&count_private=true&theme=vue)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bliutech&layout=compact&theme=vue)
-
+![README Stats](https://github-readme-stats.vercel.app/api?username=bliutech&show_icons=true&count_private=true&theme=vue)
 
 <!--
 **bliutech/bliutech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
