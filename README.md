@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Benson Liu! I am a rising second year computer science major at the Henry Samueli School of Engineering & Applied Science at UCLA!
+My name is Benson Liu! I am a second year computer science major at the Henry Samueli School of Engineering & Applied Science at UCLA!
 
 💻 Website: [https://www.bliu.tech/](https://www.bliu.tech/) \
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width=20px /> LinkedIn: [https://www.linkedin.com/in/bliutech/](https://www.linkedin.com/in/bliutech/) \
