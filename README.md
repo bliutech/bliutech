@@ -15,8 +15,8 @@ My name is Benson Liu! I am a third year computer science major at the Henry Sam
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bliutech&layout=compact&theme=vue&hide=jupyter%20notebook" alt="Most used languages!" height=200 />
-  <img src="https://github-readme-stats.vercel.app/api?username=bliutech&show_icons=true&count_private=true&theme=vue" alt="README Stats" height=200 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bliutech&layout=compact&theme=vue&hide=jupyter%20notebook" alt="Most used languages!" height=150 />
+  <img src="https://github-readme-stats.vercel.app/api?username=bliutech&show_icons=true&count_private=true&theme=vue" alt="README Stats" height=150 />
 </p>
 
 <!--
