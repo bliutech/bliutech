@@ -16,7 +16,7 @@ My name is Benson Liu! I am a rising senior studying computer science at the Hen
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bliutech&layout=compact&theme=vue&hide=jupyter%20notebook" alt="Most used languages!" height=150 />
-  <img src="https://github-readme-stats.vercel.app/api?username=bliutech&show_icons=true&count_private=true&theme=vue" alt="README Stats" height=150 />
+  <img src="https://github-readme-stats.vercel.app/api?username=bliutech&show_icons=true&count_private=true&theme=vue&hide_rank=true" alt="README Stats" height=150 />
 </p>
 
 <!--
