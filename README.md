@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hey, I'm Benson 👋
 
-My name is Benson Liu! I am a senior studying computer science at the Henry Samueli School of Engineering & Applied Science at UCLA!
+Currently, I am a Security Engineer at Meta working on application security with a passion for building and breaking high-impact software. 💻
+Particularly, I am interested in software design & cybersecurity, trying to help write safer software and find bugs faster. 🔐
+I also have a passion for teaching, education, & education technology and enjoy developing lessons for students about computer science. ✏️ 
 
 🌐 Personal Website: [https://www.bliu.tech/](https://www.bliu.tech/) \
 💻 Cybersecurity Website: [https://cyber.bliu.tech/](https://cyber.bliu.tech/) \
@@ -10,7 +12,7 @@ My name is Benson Liu! I am a senior studying computer science at the Henry Samu
 
 📫 How to reach me: bensonhliu@gmail.com\
 😄 Pronouns: he/him\
-🔭 I'm currently working on helping cybersecurity education grow at UCLA!\
+🔭 I'm currently working on application security at Meta!\
 💬 I'm interested in software development, cybersecurity, and educational technology.
 
 <!--
