@@ -1,6 +1,6 @@
 ### Hey, I'm Benson 👋
 
-Currently, I am a Security Software Engineer at Anysphere working on security for [Cursor](https://cursor.com/home) with a passion for building and breaking high-impact software. 💻
+Currently, I am a Security Software Engineer at SpaceXAI working on security with a passion for building and breaking high-impact software. 💻
 Particularly, I am interested in software design & cybersecurity, trying to help write safer software and find bugs faster. 🔐
 I also have a passion for teaching, education, & education technology and enjoy developing lessons for students about computer science. ✏️ 
 
