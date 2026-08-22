@@ -12,7 +12,6 @@ I also have a passion for teaching, education, & education technology and enjoy 
 
 📫 How to reach me: bensonhliu@gmail.com\
 😄 Pronouns: he/him\
-🔭 I'm currently working on application security at Meta!\
 💬 I'm interested in software development, cybersecurity, and educational technology.
 
 <!--
